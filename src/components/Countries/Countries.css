@@ -4,3 +4,8 @@
     gap: 10px;
 
 }
+
+.visited-flags-container img{
+    width: 120px;
+    margin-left: 10px;
+}
